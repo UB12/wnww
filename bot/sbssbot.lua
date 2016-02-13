@@ -232,29 +232,29 @@ function create_config( )
     "id",
     "tagall"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {144658773,114934518},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @Mr_Ah_S
+    @cia_00_07
     Manager:
-    @amiirdada
+    @yellow_hat
     Founder:
-    @AmirQuick
+    @sina7sk
     
     Special Thank To:
-    Mehr Pouya
-    Arman
-    IM/-\N
-    Creed Is Dead
+    Fastreactor😍
+    Amirho33in
+    Yellow hat👻
+    Sina7sk
     
-    Powered By @Sbss_Team
+    Powered By @tele1_lion
     
     #Open Source
-    https://github.com/SbssTeam/Sbss
+    https://github.com/ub12_wnww
 ]],
     help_text_realm = [[
 See Patterns In Github
